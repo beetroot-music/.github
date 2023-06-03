@@ -1,4 +1,4 @@
-<p align="center"><img src="Beetroot.svg" height=
+<p align="center"><img src="/profile/Beetroot.svg" height=
 128"></p>
 <h1 align="center">Beetroot Music</h1>
 
