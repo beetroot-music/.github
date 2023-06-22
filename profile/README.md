@@ -3,9 +3,9 @@
 <h1 align="center">Beetroot Music</h1>
 
 - ![](/profile/BeetrootPlayer.svg) **[Amen Break](https://github.com/beetroot-music/AmenBreak)** - Beetroot Player for Desktop
-- ![](/profile/BeetrootPlayer.svg) **[Harder Better](https://github.com/beetroot-music/HarderBetter)** - Beetroot Player for Android
-- ![](/profile/BeetrootPlayer.svg) **[Faster Stronger](https://github.com/beetroot-music/FasterStronger)** - Beetroot Player for iOS
+- ![](/profile/BeetrootPlayer.svg) **[Breakbeat](https://github.com/beetroot-music/BreakBeat)** - Beetroot Player for Mobile
 
 ---
 
 - ![](/profile/BeetrootRelay.svg) **[Gold Dust](https://github.com/beetroot-music/GoldDust)** - Beetroot Relay Server
+- ![](/profile/BeetrootPlayerCli.svg) **[Neurofunk](https://github.com/beetroot-music/NeuroFunk)** - Beetroot Relay Client
